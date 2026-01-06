@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MUT-00\\Desktop\\6811130005\\MIIA0106-2025-A\\\u0E07\u0E32\u0E19\u0E1B\u0E351\u0E40\u0E17\u0E2D\u0E212\\LAB8\\LAB8_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D91CD33E-96E4-4451-BB68-B0C1B07A3E64}|LAB8_1.vcxproj|C:\\Users\\MUT-00\\Desktop\\6811130005\\MIIA0106-2025-A\\\u0E07\u0E32\u0E19\u0E1B\u0E351\u0E40\u0E17\u0E2D\u0E212\\LAB8\\LAB8_1\\LAB8_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91CD33E-96E4-4451-BB68-B0C1B07A3E64}|LAB8_1.vcxproj|solutionrelative:LAB8_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB8_1.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\Desktop\\6811130005\\MIIA0106-2025-A\\\u0E07\u0E32\u0E19\u0E1B\u0E351\u0E40\u0E17\u0E2D\u0E212\\LAB8\\LAB8_1\\LAB8_1.cpp",
+              "RelativeDocumentMoniker": "LAB8_1.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\Desktop\\6811130005\\MIIA0106-2025-A\\\u0E07\u0E32\u0E19\u0E1B\u0E351\u0E40\u0E17\u0E2D\u0E212\\LAB8\\LAB8_1\\LAB8_1.cpp",
+              "RelativeToolTip": "LAB8_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T08:15:40.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
